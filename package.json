@@ -1,0 +1,53 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.myapp",
+    "tns-android": {
+      "version": "6.0.0"
+    },
+    "tns-ios": {
+      "version": "6.0.1"
+    }
+  },
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "dependencies": {
+    "@nstudio/nativescript-camera-plus": "^2.2.6",
+    "axios": "^0.19.0",
+    "nativescript-advanced-permissions": "^1.2.0",
+    "nativescript-audio": "^5.0.4",
+    "nativescript-audio-player": "^1.0.3",
+    "nativescript-background-http": "^4.0.0",
+    "nativescript-bitmap-factory": "^1.8.1",
+    "nativescript-canvas": "^2.1.8",
+    "nativescript-canvas-interface": "^1.0.0",
+    "nativescript-contacts": "^1.6.2",
+    "nativescript-geolocation": "^5.1.0",
+    "nativescript-local-notifications": "^4.0.1",
+    "nativescript-messenger": "^1.2.0",
+    "nativescript-permissions": "^1.3.7",
+    "nativescript-phone": "^1.4.0",
+    "nativescript-screenshot": "0.0.2",
+    "nativescript-speech-recognition": "^1.5.0",
+    "nativescript-texttospeech": "^2.0.3",
+    "nativescript-theme-core": "~1.0.6",
+    "nativescript-vue": "~2.4.0",
+    "text-to-speech-js": "^1.1.9",
+    "tns-core-modules": "~6.0.0",
+    "typescript": "^3.5.3",
+    "vue-property-decorator": "^8.2.1"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.1.0",
+    "@babel/preset-env": "~7.1.0",
+    "babel-loader": "~8.0.0",
+    "nativescript-dev-webpack": "~1.0.0",
+    "nativescript-vue-template-compiler": "~2.4.0",
+    "node-sass": "^4.7.1",
+    "vue-class-component": "^7.1.0",
+    "vue-cli-plugin-nativescript-vue": "^0.1.3",
+    "vue-loader": "^15.4.2"
+  },
+  "gitHead": "acc336cdf930533cd11ba8c8e4dcf350f2c5d818",
+  "readme": "NativeScript Application"
+}
